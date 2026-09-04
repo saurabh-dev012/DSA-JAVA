@@ -24,5 +24,17 @@ public class DataTypes {
 
         char firstCharacter = 'a';
         System.out.println(firstCharacter);
+
+        // Implicit Conversion
+
+        byte firstNum = 127;
+        long newNum = firstNum;
+        System.out.println(newNum);
+
+        // Explicit Conversion
+
+        long value1 = 123456789;
+        int value2 = (int)value1;
+        System.out.println(value2);
     }
 }
