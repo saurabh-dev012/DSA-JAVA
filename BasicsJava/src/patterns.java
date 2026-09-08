@@ -134,7 +134,27 @@ public class patterns {
 //        }
 //            System.out.println();
 
-        int n = 5;
+//        int n = 5;
+//
+//        for (int rows = 1; rows <= n; rows++) {
+//            for (int cols = 1; cols <= (n-rows); cols++) {
+//                System.out.print("  ");
+//            }
+//            if (rows==1 || rows==n) {
+//                for (int cols = 1; cols <=2*rows-1; cols++) {
+//                    System.out.print("* ");
+//                }
+//            } else {
+//            System.out.print("* ");
+//            for  (int cols = 1; cols<=2*rows-3; cols++) {
+//                System.out.print("  ");
+//            }
+//            System.out.print("* ");
+//            }
+//            System.out.println();
+       // }
+
+
 
 
 
